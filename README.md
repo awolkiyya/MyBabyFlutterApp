@@ -1,16 +1,29 @@
-# instagram_app
+# this is MyBaby Fun Application It Will Be Become Amazing App
 
-A new Flutter project.
+## the details of this app will be provides to whom have intereset to work with me
 
-## Getting Started
+------in progresss
 
-This project is a starting point for a Flutter application.
+## The Sample Of The App Is
 
-A few resources to get you started if this is your first Flutter project:
+### The Splash Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ <br/>
+  <img src="assets/Prototypes/loginScreen.png alt="not found" />
+ <br/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### The Login Screen
+
+<br/>
+<img src ="assets/Prototypes/loginScreen.png"  alt="not found"/>
+
+<br/>
+
+### to contact me you can use the following links
+
+<br/>
+email -> <a href="mailto:awolabdulbaasit143@gmail.com">
+<br/>
+or phone number -> +251911996750
+
+### thanks for understanding me
