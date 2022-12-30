@@ -20,3 +20,10 @@
 <br/>
 
 ### to contact me you can use the following links
+
+<br/>
+email -> <a href="mailto:awolabdulbaasit143@gmail.com">
+<br/>
+or phone number -> +251911996750
+
+### thanks for understanding me
