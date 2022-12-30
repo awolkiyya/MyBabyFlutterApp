@@ -22,7 +22,7 @@
 ### to contact me you can use the following links
 
 <br/>
-email -> <a href="mailto:awolabdulbaasit143@gmail.com">
+email -> <a href="mailto:awolabdulbaasit143@gmail.com">awolabdulbaasit143@gmail.com</a>
 <br/>
 or phone number -> +251911996750
 
