@@ -38,6 +38,11 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.5
+  image_picker: ^0.8.3
+  flashy_tab_bar2: ^0.0.5
+  emoji_dialog_picker: ^1.0.1
+  cached_network_image: ^3.2.3
+  uuid: ^3.0.7
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
