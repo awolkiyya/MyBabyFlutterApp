@@ -9,13 +9,13 @@
 ### The Splash Screen
 
  <br/>
-  <img src="assets/Prototypes/p1.png" alt="notfound" />
+  <img src="assets/Prototypes/p1.png" width="200px" alt="notfound" />
  <br/>
 
 ### The Login Screen
 
 <br/>
-<img src ="assets/Prototypes/p2.png"  alt="notfound"/>
+<img src ="assets/Prototypes/p2.png"  width="200px" alt="notfound"/>
 
 <br/>
 
